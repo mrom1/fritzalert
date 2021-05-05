@@ -13,6 +13,6 @@ Another reason is that at the time of writing this software is not 100% tested, 
 
 **I will however publish bits and pieces of it in the future to make it a well-rounded proof-of-concept with no warranty!**
 
-You may however want to check out the [live demonstration](https://mrom1.github.io/fritzalert-webclient-demo/) with no backend functionallity.
+You may however want to check out the [live demonstration](https://mrom1.github.io/fritzalert-webclient-demo/) with no backend functionality.
 
 I am open for discussion on this project.
